@@ -1,13 +1,15 @@
 {
   "links": [
     {
-      "url": "https://about.google/?hl=es"
+      "url": "https://about.google/?hl=es",
+      "text": "Über Google"
     },
     {
       "url": "https://about.google/products/?hl=es",
       "text": "Produkte von Google"
     },
     {
+      "url": "https://policies.google.com/privacy?hl=ese",
       "text": "Privatsphäre"
     },
     {
